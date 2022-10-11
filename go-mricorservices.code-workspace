@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../code/go-mricorservices"
+		},
+		{
+			"path": "front-end"
+		},
+		{
+			"path": "broker-service"
+		},
+		{
+			"path": "project"
+		}
+	],
+	"settings": {}
+}
